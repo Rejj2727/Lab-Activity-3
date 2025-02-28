@@ -1,5 +1,5 @@
 Attached images
-Already filled the areas under SQLtools properly, checked if the database was detectable, still cant connect with the locally hosted db even with my connectors/J already in the project files in VScode. 
+I already filled the areas under SQLtools properly, checked if the database was detectable, still cant connect with the locally hosted db even with my connectors/J already in the project files in VScode. 
 
 ![Running_JAVAxSQL](https://github.com/user-attachments/assets/b79b4596-ed03-4a4e-be17-b48b7efc78a8)
 ![Uploading AlreadyChecked if the database matches.JPG…]()
